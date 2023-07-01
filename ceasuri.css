@@ -1,0 +1,92 @@
+
+.container {
+    width: 500px;
+    height: 250px;
+    border: 1px solid rgb(104, 98, 98);
+    padding: 5px;
+    display: flex;
+    margin: 10px;
+    justify-content:space-between;
+    align-items: end;
+    position:relative;
+    top: 15%;
+    left: 15%;
+    background-color: white;
+}
+
+.container div {
+    border: 1px solid rgb(75, 71, 71);
+    font-size: 20px;
+    padding: 10px;
+    height: 150px;
+    width: 100px;
+    box-shadow: 10px;
+}
+
+
+#box1{
+   background-image: url(https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/18675259/9/maitres-du-temps-chapter-one-round-transparence.jpg?height=327&width=620);
+   background-repeat: no-repeat;
+   background-position:center top;
+   background-size: 150px;
+   border-radius: 2px;
+   box-shadow: 10px;
+}
+
+h5 {
+  text-align: center;
+  font-size: 10px;
+  padding-top: 70px;
+ 
+}
+
+p{
+    text-align: center;
+    font-size: 6px;
+    padding-bottom: 60px;
+}
+
+
+button {
+    text-align: center;
+    font-size: 8px;
+    position: relative;
+    bottom:45%;
+    left:20%;
+    box-shadow: 1px;
+    outline:none;
+
+}
+
+
+
+
+
+#box2{
+    background-image: url(https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/18675259/1/patek-philippe-grandmaster-chime-ref-6300a.gif?height=349&width=620);
+    background-repeat: no-repeat;
+    background-position:center top;
+    background-size: 120px;
+    border-radius: 2px;
+    box-shadow: 10px;
+ }
+
+ 
+#box3{
+    background-image: url(https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/18675259/13/patek-philippe-grandmaster-chime.jpg?height=417&width=620);
+    background-repeat: no-repeat;
+    background-position:center top;
+    background-size: 120px;
+    border-radius: 2px;
+    box-shadow: 10px;
+ }
+
+ #box4{
+    background-image: url(https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/18675259/8/louis-moinet-meteoris-collection.jpg?height=476&width=620);
+    background-repeat: no-repeat;
+    background-position:center top;
+    background-size: 120px;
+    border-radius: 2px;
+    box-shadow: 10px;
+ }
+
