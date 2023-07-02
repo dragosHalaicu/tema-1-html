@@ -1,0 +1,10 @@
+
+
+
+
+.section-left{ 
+    border:1px solid black;
+    height: 200px;
+    width:200;
+    display:flex;
+}
