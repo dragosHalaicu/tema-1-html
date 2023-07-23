@@ -1,0 +1,36 @@
+
+.container {
+   display: flex;
+   background-color: white;
+   flex-direction: row;
+   border: 1px solid black;
+   align-items: flex-end;
+   height: 250px;
+   padding-top: 80px;
+   padding-bottom: 10px;
+
+}
+
+.container > div {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 25px;
+    border:1px solid red;
+    width:130px;
+    height: 160px;
+    align-content: space-between;
+}
+
+
+#box1 {
+        background-image: url(https://assets.catawiki.nl/assets/2023/4/9/5/a/a/5aa1c7df-7fe2-47f9-994e-901b81efb22d.jpg);
+        width: 100px;
+        height: 5opx;
+        background-repeat: no-repeat;
+        background-position:center top;
+        background-size: 120px;
+        border-radius: 2px;
+        box-shadow: 10px;
+
+}
